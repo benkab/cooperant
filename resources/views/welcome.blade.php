@@ -38,12 +38,6 @@
     <body>
         <div class="container">
             <div class="content">
-<<<<<<< HEAD
-                <div class="title">Laravel 5</div>
-                <p>Hi</p>
-=======
-                <div class="title">Ekosimba</div>
->>>>>>> cc2519a210704f85914a19138a78044be0484a4e
             </div>
         </div>
     </body>
