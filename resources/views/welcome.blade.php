@@ -38,6 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
+                <h2>Salut</h2>
             </div>
         </div>
     </body>
